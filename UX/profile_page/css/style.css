@@ -1,0 +1,12 @@
+img {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+  .font-properties {
+    font-family: cursive, sans-serif;
+    font-size: 1.3rem;
+    font-weight: bolder;
+  }
